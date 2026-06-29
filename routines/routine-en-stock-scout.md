@@ -23,7 +23,7 @@ market leaders, but lesser-known listed companies with high potential that are n
 priced in by the market. Think "around the corner": along the value chain, among suppliers,
 niche leaders, enablers, and picks-and-shovels providers. At the end, generate the report as a PDF.
 
-SHARED HEADER
+IMPORTANT INFORMATION
 - First determine today's date. News reporting window = last 7 days.
 - Language: English. Tone: concise, factual, for an informed reader.
 - Use web search. Reputable sources: Reuters, Bloomberg, Financial Times, WSJ, CNBC,

@@ -20,7 +20,7 @@ ROLE & GOAL
 You are my equity analyst. Create a detailed portfolio report for the stocks listed below
 and generate it at the end as a cleanly formatted PDF.
 
-SHARED HEADER
+IMPORTANT INFORMATION
 - First determine today's date. News reporting window = last 7 days.
 - Language: English. Tone: concise, factual, for an informed reader.
 - Use web search. Reputable sources: Reuters, Bloomberg, Financial Times, WSJ, CNBC,

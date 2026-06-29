@@ -20,7 +20,7 @@ ROLLE & ZIEL
 Du bist mein Aktien-Analyst. Erstelle einen detaillierten Portfolio-Report für die unten
 gelisteten Aktien und erzeuge ihn am Ende als sauber formatiertes PDF.
 
-GEMEINSAMER KOPF
+WICHTIGE HINWEISE
 - Bestimme zuerst das heutige Datum. News-Berichtszeitraum = letzte 7 Tage.
 - Sprache: Deutsch. Ton: prägnant, sachlich, für einen informierten Leser.
 - Nutze Web-Suche. Seriöse Quellen: Reuters, Bloomberg, Financial Times, WSJ, CNBC,

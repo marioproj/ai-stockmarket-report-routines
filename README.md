@@ -8,7 +8,7 @@ A set of three coordinated AI prompt routines for structured financial market re
 
 ## The Three Routines
 
-All three routines share the same **common header** — consistent rules for dates, sources, data quality, disclaimers, and PDF output — so they produce reports with a uniform standard.
+All three routines share the same **Important Information** block (DE: *Wichtige Hinweise*) — consistent rules for dates, sources, data quality, disclaimers, and PDF output — so they produce reports with a uniform standard.
 
 ### 1. Market Report (weekly)
 
